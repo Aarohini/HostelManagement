@@ -30,19 +30,33 @@ Core Functionalities
 This project follows a structured design similar to backend-based applications.
 
 expense-tracker/
+
 │
+
 ├── model/
+
 │   └── transaction.ts
+
 │
+
 ├── service/
+
 │   └── expenseService.ts
+
 │
+
 ├── ui/
+
 │   └── ui.ts
+
 │
+
 ├── app.ts
+
 ├── index.html
+
 ├── styles.css
+
 └── tsconfig.json
 
 📊 Tab Views
@@ -110,3 +124,4 @@ Real-world modular design
 👩‍💻 Author
 
 Built as part of learning structured frontend architecture and TypeScript application design.
+
